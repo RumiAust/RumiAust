@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RumiAust
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muktadir Rumi
+- 👀 I’m interested in software development
+- 🌱 I’m currently studing Medical and Health Data Analytics 
+- 💞️ I’m looking to collaborate on software Development
+- 📫 Email: muktradir.golam@gmail.com
 
 <!---
 RumiAust/RumiAust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
