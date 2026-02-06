@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Golam Muktadir
 
-🚀 **Software Engineer | Medical Engineering (M.Sc.) | Full Stack Developer**
+🚀 **Software Engineer | Medical Engineering - Health Data Analytics (M.Sc.), Computer Science and Engineering (B.Sc) | Full Stack Developer**
 
 I am a software engineer with a strong foundation in **computer science** and a **master’s degree in Medical Engineering**, specializing in **medical health data analytics**. I enjoy solving complex problems, developing reliable software, and continuously learning new technologies—especially in regulated and research-driven environments.
 
