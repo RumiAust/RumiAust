@@ -40,7 +40,6 @@ I am a software engineer with a strong foundation in **computer science** and a 
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile.*
 
 
 
