@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Muktadir Rumi
-- 👀 I’m interested in software development
-- 🌱 I’m currently studing Medical and Health Data Analytics 
-- 💞️ I’m looking to collaborate on software Development
-- 📫 Email: muktradir.golam@gmail.com
+- 👋 Hi, I’m Golam Muktadir,Software Engineer, with  master’s in Medical Engineering  who loves technologies and problem-solving.
+- I like interacting with professionals and utilizing my knowledge as well as communications skills. Always ready to learn new technologies and set benchmark for continuous improvement.
 
 <!---
 RumiAust/RumiAust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
