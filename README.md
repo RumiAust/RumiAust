@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Golam Muktadir,Software Engineer, with  master’s in Medical Engineering  who loves technologies and problem-solving.
+- 👋 Hi, I’m Golam Muktadir,a software Engineer, with a master’s degree in Medical Engineering, who loves technologies and problem-solving.
   
 - I like interacting with professionals and utilizing my knowledge as well as communications skills. Always ready to learn new technologies and set benchmark for continuous improvement.
   
