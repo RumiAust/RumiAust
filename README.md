@@ -9,7 +9,7 @@ I am a software engineer with a strong foundation in **computer science** and a 
 ## 🧑‍💻 Professional Profile
 
 - 💼 **5+ years of professional software engineering experience** across medical technology, full-stack development, and academic–industry projects
-- 🧑‍💻 **2.5+ years of experience** as a **Full Stack Software Engineer (OOP)**
+- 🧑‍💻 **2.5+ years of experience** as a **Full Stack Software Java Engineer (OOP)**
 - 🏥 **2 years full-time experience** in **Medical Software Engineering**
 - 🏥 **2.7 years Werkstudent experience** in **Medical Software Engineering**
 - 🧠 Focus areas: **medical imaging**, **medical software & applications**, **HCI / UI**, and **research-oriented development**
