@@ -24,8 +24,12 @@ I am a software engineer with a strong foundation in **bachelor in computer scie
   **2024 – Present** · *2 years*  
   Development of medical software solutions in structured and quality-driven environments
 
-- **Werkstudent – Medical Software Engineering**  
+- **Werkstudent – Medical Software Engineering (Part Time)**  
   **2021 – 2024** · *2.7 years*  
+  Industry experience parallel to master’s studies
+  
+- **Full Stack Developer – Software Engineering (Full Time**  
+  **2018 – 2021** · *2.5 years*  
   Industry experience parallel to master’s studies
 
 ### 🎓 Academic Background
