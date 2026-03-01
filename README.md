@@ -2,16 +2,16 @@
 
 🚀 **Software Engineer | Medical Engineering (M.Sc.) | Computer Science (B.Sc.) | Full Stack Developer**
 
-I am a software engineer with a strong foundation in **computer science** and a **master’s degree in Medical Engineering**, specializing in **medical health data analytics**. I enjoy solving complex problems, developing reliable software, and continuously learning new technologies—especially in regulated and research-driven environments.
+I am a software engineer with a strong foundation in **bachelor in computer science** and a **master’s degree in Medical Engineering**, specializing in **medical health data analytics**. I enjoy solving complex problems, developing reliable software, and continuously learning new technologies—especially in regulated and research-driven environments.
 
 ---
 
 ## 🧑‍💻 Professional Profile
 
 - 💼 **5+ years of professional software engineering experience** across medical technology, full-stack development, and academic–industry projects
-- 🧑‍💻 **2.5+ years of experience** as a **Full Stack Software Java Engineer (OOP)**
-- 🏥 **2 years full-time experience** in **Medical Software Engineering**
-- 🏥 **2.7 years Werkstudent experience** in **Medical Software Engineering**
+- 🏥 **2 years full-time experience** in **Medical Software Engineering (dotnet enviroment)**
+- 🏥 **2.7 years Werkstudent experience** in **Medical Software Engineering (C#, Angular)**
+- 🧑‍💻 **2.5+ years of experience** as a **Full Stack Software Java Engineer (OOP Programming) / Angular**
 - 🧠 Focus areas: **medical imaging**, **medical software & applications**, **HCI / UI**, and **research-oriented development**
 - 🤝 Strong team player with experience collaborating in interdisciplinary environments (engineering, healthcare, research)
 
