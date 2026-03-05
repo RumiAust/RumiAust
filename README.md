@@ -8,7 +8,7 @@ I am a software engineer with a strong foundation in **bachelor in computer scie
 
 ## 🧑‍💻 Professional Profile
 
-- 💼 **4+ years of professional full time software engineering experience** across medical technology, full-stack development, and academic–industry projects
+- 💼 **2+ years of professional full time software engineering experience** in medical technology and **2+ years** academic–industry projects
 - 🏥 **2 years full-time experience** in **Medical Software Engineering (dotnet enviroment)** **| Forchheim, Germany**
 - 🏥 **2.7 years Werkstudent experience** in **Medical Software Engineering (C#, Angular)**  **| Forchheim, Germany**
 - 🧑‍💻 **2.5+ years of experience** as a **Full Stack Software Java Engineer (OOP Programming) / Angular** **| Dhaka Bangladesh**
